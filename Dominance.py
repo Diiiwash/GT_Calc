@@ -13,8 +13,6 @@ global nb1
 root= tk.Tk()
 root.title('Oddoment Method')
 
-#simplex optimization function
-
 def simplex():
     
     a = int(bentry1.get())
