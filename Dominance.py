@@ -13,7 +13,7 @@ global nb1
 root= tk.Tk()
 root.title('Oddoment Method')
 
-def simplex():
+def oddoment():
     
     a = int(bentry1.get())
     b = int(bentry2.get())
